@@ -14,7 +14,7 @@ public class TC001 extends ProjectWrappers{
 		testcasename="TC001";
 		testdescription="Verify whether SandStar Launch is successfull";
 		browsertoluanch="chrome";
-		application="https://qa.sandstar.us/";
+		application="https://www.facebook.com/";
 		//dataSheetName="TC001";
 	}
 	
