@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Smoke TestSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Basic Test(failed)">
+    <classes>
+      <class name="LearnTestNG.TestNGAnnotation_1">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="afterTest"/>
+          <include name="afterClass"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="afterSuite"/>
+          <include name="beforeClass"/>
+          <include name="test2"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- LearnTestNG.TestNGAnnotation_1 -->
+    </classes>
+  </test> <!-- Basic Test(failed) -->
+</suite> <!-- Failed suite [Smoke TestSuite] -->

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61568" started-at="2021-07-14T04:16:47Z" finished-at="2021-07-14T04:17:49Z">
+    <groups>
+      <group name="smoke">
+        <method signature="TC002.indianFrroRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:testcases.TC002@55d56113]" name="indianFrroRegistration" class="testcases.TC002"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Default test" duration-ms="61568" started-at="2021-07-14T04:16:47Z" finished-at="2021-07-14T04:17:49Z">
+      <class name="testcases.TC002">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC002@55d56113]" name="beforeSuite" is-config="true" duration-ms="1538" started-at="2021-07-14T09:46:46Z" finished-at="2021-07-14T09:46:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.TC002@55d56113]" name="beforeTest" is-config="true" duration-ms="7" started-at="2021-07-14T09:46:47Z" finished-at="2021-07-14T09:46:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.TC002@55d56113]" name="beforeClass" is-config="true" duration-ms="0" started-at="2021-07-14T09:46:47Z" finished-at="2021-07-14T09:46:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC002@55d56113]" name="beforeMethod" is-config="true" duration-ms="24070" started-at="2021-07-14T09:46:48Z" finished-at="2021-07-14T09:47:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="indianFrroRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:testcases.TC002@55d56113]" name="indianFrroRegistration" duration-ms="37063" started-at="2021-07-14T09:47:12Z" data-provider="fetchData" finished-at="2021-07-14T09:47:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yogeshsn90]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Yogesh Nagarajan]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[10/07/1990]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[BA]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[nyogesh.qa@gmail.com]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[9003829232]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[44223344]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Yogesh]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[5Kg]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[3/180 North Street, Kulamanicakam, Ariyalur(DT)]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[ Tamil Nadu]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[ Ariyalur]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[Hotel]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[Five Star]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[nyogesh.qa@gmail.com]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[9003829232]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[9962919162]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[Yogesh]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[3/180 North Street, Kulamanicakam, Ariyalur(DT)]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[nyogesh.qa@gmail.com]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[9003829232]]>
+              </value>
+            </param>
+            <param index="25">
+              <value>
+                <![CDATA[9962919162]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indianFrroRegistration -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC002@55d56113]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-07-14T09:47:49Z" finished-at="2021-07-14T09:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testcases.TC002@55d56113]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-07-14T09:47:49Z" finished-at="2021-07-14T09:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.TC002@55d56113]" name="afterTest" is-config="true" duration-ms="0" started-at="2021-07-14T09:47:49Z" finished-at="2021-07-14T09:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC002@55d56113]" name="afterSuite" is-config="true" duration-ms="673" started-at="2021-07-14T09:47:49Z" finished-at="2021-07-14T09:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.TC002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
