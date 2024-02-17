@@ -19,24 +19,24 @@ public class TC001 extends ProjectWrappers{
 	}
 	
 	@Test
-	public void SandStarHomePage()
+	public void FBAccountCreation()
 	{
 	
-	new SandStarHomePage(driver,test);
+	new FacebookHomePage(driver,test);
 		
-	// FacebookHomePage(driver,test)
-	//	.clickOnCreateNewAccount()
-	//	.facebookSignupWait(8000)
-	//	.enterFirstName("YOGESH")
-	//	.enterLastName("TEST")
-	//	.enterEmail("nyogesh.qa@gmail.com")
-	//	.enterPassword("Test@123")
-	//	.selectDay("10")
-	//	.facebookSignupWait(5000)
-	//	.selectMonth("Jul")
-	//	.selectYear("1990")
-	//	.clickGender()
-	//	.clickSignup();
+	FacebookHomePage(driver,test)
+	.clickOnCreateNewAccount()
+	.facebookSignupWait(8000)
+	.enterFirstName("YOGESH")
+	.enterLastName("TEST")
+	.enterEmail("nyogesh.qa@gmail.com")
+	.enterPassword("Test@123")
+	.selectDay("10")
+	.facebookSignupWait(5000)
+	.selectMonth("Jul")
+	.selectYear("1990")
+	.clickGender()
+	.clickSignup();
 	
 	}
 
